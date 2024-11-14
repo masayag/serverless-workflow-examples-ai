@@ -3,7 +3,7 @@
   "name": "loanbroker",
   "specVersion": "0.8",
   "start": "GetCreditScore",
-  "dataInputSchema": "loanbroker.schema.json",
+  "dataInputSchema": "schemas/loanbroker.schema.json",
   "functions": [
     {
       "name": "getCreditScore",

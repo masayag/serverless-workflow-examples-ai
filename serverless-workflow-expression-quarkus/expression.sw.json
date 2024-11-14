@@ -6,7 +6,7 @@
   "description": "An example of how to use a JQ expression assignment",
   "extensions" : [ {
       "extensionid": "workflow-output-schema",
-      "outputSchema": "schema/result.json"
+      "outputSchema": "schemas/result.json"
      }
   ],
   "start": "max",

@@ -2,7 +2,7 @@
   "id": "currency_exchange_workflow",
   "version": "1.0",
   "name": "Currency Exchange SW",
-  "dataInputSchema": "currency-exchange-workflow-schema.json",
+  "dataInputSchema": "schemas/currency-exchange-workflow-schema.json",
   "start": "ValidateInputs",
   "functions": [
     {

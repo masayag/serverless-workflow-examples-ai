@@ -1,6 +1,6 @@
 {
   "id": "subscription_flow",
-  "dataInputSchema": "subscription-schema.json",
+  "dataInputSchema": "schemas/subscription-schema.json",
   "specVersion": "0.8",
   "version": "1.0",
   "start": "VerifyEmail",

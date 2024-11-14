@@ -11,7 +11,7 @@
       "operation": "camel:direct:numberToWords"
     }
   ],
-  "dataInputSchema": "camel.sw.schema.json",
+  "dataInputSchema": "schemas/camel.sw.schema.json",
   "states": [
     {
       "name": "start",
